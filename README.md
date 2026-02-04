@@ -14,12 +14,12 @@ The data underlying this work will be available with Version 2.0.0 of the GLES T
 ## Software
 
 ## Contact
-Sina Chen
-Computational Social Sciences &amp; Data Services for the Social Sciences
-GESIS - Leibniz-Institute for the Social Sciences
-Email: sina.chen@uni-konstanz.de
+Sina Chen  
+Computational Social Sciences &amp; Data Services for the Social Sciences  
+GESIS - Leibniz-Institute for the Social Sciences  
+Email: sina.chen@uni-konstanz.de  
 
-Barbara Binder 
-Data and Research on Society
-GESIS - Leibniz-Institute for the Social Sciences
+Barbara Binder  
+Data and Research on Society  
+GESIS - Leibniz-Institute for the Social Sciences  
 Email: barbara.binder@gesis.org
