@@ -7,9 +7,10 @@ Data donation studies are increasingly used to enrich survey data with digital b
 
 ## Description of files
 ### CODE
+To replicate all results, run the scripts in the [code folder](code/) in the order provided.
 
 ### Data
-The data underlying this work will be available with Version 2.0.0 of the GLES Tracking March 2025, repeatedly questioned respondents T60W dataset, to be published in the first quarter of 2026. GLES Survey Data is freely available for purposes of academic research via the [GESIS data archive](https://doi.org/10.4232/5.ZA10132.1.0.0).
+The data underlying this work will be available with Version 2.0.0 of the GLES Tracking March 2025, repeatedly questioned respondents T60W dataset, to be published in the second quarter of 2026. GLES Survey Data is freely available for purposes of academic research via the [GESIS data archive](https://doi.org/10.4232/5.ZA10132.1.0.0).
 
 ## Software
 
